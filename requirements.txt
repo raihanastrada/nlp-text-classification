@@ -4,7 +4,11 @@ matplotlib
 nltk
 numpy
 pandas
+pickle
 Sastrawi
 seaborn
 sklearn
 tensorflow
+time
+torch
+transformers
