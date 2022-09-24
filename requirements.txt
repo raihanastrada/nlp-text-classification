@@ -1,0 +1,10 @@
+gensim
+keras
+matplotlib
+nltk
+numpy
+pandas
+Sastrawi
+seaborn
+sklearn
+tensorflow
